@@ -14,7 +14,7 @@ int main()
 	}
 	catch(...)
 	{
-		cout<<"nikal";
+		cout<<"hello world";
 		
 	}
 }
